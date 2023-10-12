@@ -27,7 +27,7 @@ If you encounter any issues or have suggestions for improvements, please [open a
 
 ## License
 
-[MIT License](LICENSE) (feel free to add a license file and link it here if you want to include a license)
+[MIT License](LICENSE)
 
 
 
